@@ -47,6 +47,5 @@ with DAG(
         bash_command='date',
     )
 
-    # Run dummy_task_1 if cond1 executes between 2020-10-10 14:00:00 and 2020-10-10 15:00:00
     dag >> [dummy_task_1, t1]
     # [END howto_branch_datetime_operator]
