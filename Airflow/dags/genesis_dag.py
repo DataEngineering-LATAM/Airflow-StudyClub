@@ -37,8 +37,7 @@ with DAG(
     start_date=datetime.datetime(2021, 10, 25),
     catchup=False,
     tags=["test"],
-    schedule_interval="@daily",
-    owner="DataEngineeringLATAM"
+    schedule_interval="@daily"
 ) as dag:
     # [START howto_branch_datetime_operator]
     dummy_task_1 = DummyOperator(task_id='dummy_task_1', dag=dag)
@@ -47,5 +46,5 @@ with DAG(
         bash_command='date',
     )
 
-    dag >> [dummy_task_1, t1]
+    dummy_task_1 >> t1
     # [END howto_branch_datetime_operator]
