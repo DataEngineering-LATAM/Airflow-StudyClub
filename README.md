@@ -74,3 +74,28 @@ To stop and delete containers, delete volumes with database data and download im
 
 
 more details http://airflow.apache.org/docs/apache-airflow/stable/start/docker.html
+
+## Sobre la comunidad de Data Engineering Latam
+
+Data Engineering Latam es la comunidad de datos más grande de América Latina cuya misión es promover el talento de la región a través de la difusión de charlas, talleres, grupos de estudio, ayuda colaborativa y la creación de contenido relevante.
+
+## Síguenos en nuestras redes oficiales
+
+- [YouTube](https://youtube.com/c/dataengineeringlatam?sub_confirmation=1)
+- [Medium](https://medium.com/@dataengineeringlatam)
+- [Twitter](https://twitter.com/DataEngiLatam)
+- [Instagram](https://instagram.com/dataengineeringlatam)
+- [Facebook](https://facebook.com/dataengineeringlatam)
+- [TikTok](https://www.tiktok.com/@dataengineeringlatam)
+- [Slack](https://bit.ly/dataengineeringlatam_slack)
+- [Telegram](https://t.me/dataengineeringlatam)
+- [Linkedin](https://linkedin.com/company/data-engineering-latam)
+
+## ¿Quieres dar charla en la comunidad? 
+
+:microphone: Cuéntanos [aquí](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
+
+# 
+
+:loudspeaker: ¡Pasa la voz y ayúdanos a ser la comunidad más grande y chévere de todas!
+
