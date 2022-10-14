@@ -1,6 +1,7 @@
 # Airflow-StudyClub
 Grupo de estudio Apache Airflow
 
+Mayor información aquí: [Telegram](https://t.me/dataEngineeringLatam_Airflow 'Telegram')
 
 
 ## iniciar desde /Airflow/docker-compose-yaml
