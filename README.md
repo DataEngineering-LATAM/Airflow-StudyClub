@@ -80,7 +80,7 @@ more details http://airflow.apache.org/docs/apache-airflow/stable/start/docker.h
 
 En esta sección encontrarás información sobre link a recursos super valiosos para trabajar con Airflow 
 
-[📁 Tips, enlaces y herramientas](https://github.com/DataEngineering-LATAM/Airflow-StudyClub/tree/main/Tips,%20enlaces%20y%20herramientas')
+[📁 Tips, enlaces y herramientas](https://github.com/DataEngineering-LATAM/Airflow-StudyClub/tree/main/Tips,%20enlaces%20y%20herramientas 'Herramientas y links')
 
 
 ## Sobre la comunidad de Data Engineering Latam
