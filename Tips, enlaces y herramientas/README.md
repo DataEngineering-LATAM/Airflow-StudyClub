@@ -23,3 +23,14 @@ Link:  [Astronomer Registry](https://registry.astronomer.io/providers/?page=1 'A
 
 
 Descripción: Astronomer Registry es donde pueden encontrar operadores, sensores y conectores creados por parte de la comunidad empaquedados de python o de apache. 
+
+
+
+
+## 3. Apache Airflow
+Link:  [Apache Airflow](https://airflow.apache.org/ 'Apache Airflow') 
+
+<img src="https://github.com/DataEngineering-LATAM/Airflow-StudyClub/blob/main/Tips%2C%20enlaces%20y%20herramientas/image/integraciones.PNG" width="500">
+
+
+Descripción: Desde la página oficial de Apache Airflow, podrás encontrar información general de Airflow y también abajo encontrarás todas las integraciones disponibles a otras herramientas. 
