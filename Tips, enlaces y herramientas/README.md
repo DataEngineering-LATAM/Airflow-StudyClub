@@ -34,3 +34,10 @@ Link:  [Apache Airflow](https://airflow.apache.org/ 'Apache Airflow')
 
 
 Descripción: Desde la página oficial de Apache Airflow, podrás encontrar información general de Airflow y también abajo encontrarás todas las integraciones disponibles a otras herramientas. 
+
+## 4. Apache Airflow Quick Start - Marc Lamberti
+Link en LinkedIn - Marc Lamberti:  [Apache Airflow](https://www.linkedin.com/posts/marclamberti_airflow-apacheairflow-data-activity-6955557420345532416-P4xd/?trk=public_profile_like_view&originalSubdomain=in 'Apache Airflow') 
+
+<img src="https://github.com/DataEngineering-LATAM/Airflow-StudyClub/blob/main/Tips%2C%20enlaces%20y%20herramientas/image/apache%20airflow%20quick%20start_MarcLamberti.jfif" >
+
+
