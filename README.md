@@ -76,6 +76,13 @@ To stop and delete containers, delete volumes with database data and download im
 
 more details http://airflow.apache.org/docs/apache-airflow/stable/start/docker.html
 
+## 🎯 Herramientas para trabajar con Airflow 
+
+En esta sección encontrarás información sobre link a recursos super valiosos para trabajar con Airflow 
+
+[📁 Tips, enlaces y herramientas](https://github.com/DataEngineering-LATAM/Airflow-StudyClub/tree/main/Tips,%20enlaces%20y%20herramientas')
+
+
 ## Sobre la comunidad de Data Engineering Latam
 
 Data Engineering Latam es la comunidad de datos más grande de América Latina cuya misión es promover el talento de la región a través de la difusión de charlas, talleres, grupos de estudio, ayuda colaborativa y la creación de contenido relevante.
